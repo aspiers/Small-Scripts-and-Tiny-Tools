@@ -3,8 +3,8 @@ All sorts of small scripts and tiny tools created and used by myself in daily li
 
 ## bili-video-content
 
-## github-comments-editor
+## [github-comments-editor](github-comments-editor/)
 
-## matlab-variable-search
+## [matlab-variable-search](matlab-variable-search/)
 
 ## video-caption
